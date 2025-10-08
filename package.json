@@ -15,16 +15,16 @@
     "starter",
     "template"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "theanta <antatechh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/create-anta-app.git"
+    "url": "git+https://github.com/theanta/create-anta-app.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/create-anta-app/issues"
+    "url": "https://github.com/theanta/create-anta-app/issues"
   },
-  "homepage": "https://github.com/yourusername/create-anta-app#readme",
+  "homepage": "https://github.com/theanta/create-anta-app#readme",
   "dependencies": {
     "commander": "^11.1.0",
     "inquirer": "^9.2.12",
