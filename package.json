@@ -1,6 +1,6 @@
 {
   "name": "create-anta-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to create Anta apps from the Next.js starter repository",
   "main": "index.js",
   "bin": {
