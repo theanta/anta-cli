@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theanta/create-anta-app.git"
+    "url": "git+https://github.com/theanta/anta-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/theanta/create-anta-app/issues"
+    "url": "https://github.com/theanta/anta-cli/issues"
   },
-  "homepage": "https://github.com/theanta/create-anta-app#readme",
+  "homepage": "https://github.com/theanta/anta-cli#readme",
   "dependencies": {
     "commander": "^11.1.0",
     "inquirer": "^9.2.12",
